@@ -790,11 +790,12 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-ukqfaCvdvj .navbar-dropdown {
-  position: relative !important;
+.cid-ukqfaCvdvj {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-ukqfaCvdvj .navbar-dropdown {
-  position: absolute !important;
+.cid-ukqfaCvdvj nav.navbar {
+  position: fixed;
 }
 .cid-ukqfaCvdvj .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1109,6 +1110,7 @@ a {
 }
 .cid-ukqfaCvdvj .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-ukqfaCvdvj a.nav-link {
   display: flex;
@@ -1299,11 +1301,12 @@ a {
   list-style-type: none;
   padding: 0;
 }
-.cid-ukqfaCvdvj .navbar-dropdown {
-  position: relative !important;
+.cid-ukqfaCvdvj {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-ukqfaCvdvj .navbar-dropdown {
-  position: absolute !important;
+.cid-ukqfaCvdvj nav.navbar {
+  position: fixed;
 }
 .cid-ukqfaCvdvj .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1618,6 +1621,7 @@ a {
 }
 .cid-ukqfaCvdvj .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-ukqfaCvdvj a.nav-link {
   display: flex;
@@ -1900,11 +1904,12 @@ a {
   list-style-type: none;
   padding: 0;
 }
-.cid-ukqfaCvdvj .navbar-dropdown {
-  position: relative !important;
+.cid-ukqfaCvdvj {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-ukqfaCvdvj .navbar-dropdown {
-  position: absolute !important;
+.cid-ukqfaCvdvj nav.navbar {
+  position: fixed;
 }
 .cid-ukqfaCvdvj .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -2219,6 +2224,7 @@ a {
 }
 .cid-ukqfaCvdvj .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-ukqfaCvdvj a.nav-link {
   display: flex;
@@ -2460,11 +2466,12 @@ a {
   list-style-type: none;
   padding: 0;
 }
-.cid-ukqfaCvdvj .navbar-dropdown {
-  position: relative !important;
+.cid-ukqfaCvdvj {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-ukqfaCvdvj .navbar-dropdown {
-  position: absolute !important;
+.cid-ukqfaCvdvj nav.navbar {
+  position: fixed;
 }
 .cid-ukqfaCvdvj .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -2779,6 +2786,7 @@ a {
 }
 .cid-ukqfaCvdvj .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-ukqfaCvdvj a.nav-link {
   display: flex;
